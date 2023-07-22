@@ -1,8 +1,8 @@
-## Portfolio
+# Data Scientist
 
 ---
 
-### Data Science
+## Education
 
 [Hate Tweet Prediction](/sample_page)<br>
 Applied various transformations to Twitter tweets to meet specific requirements. Utilized Logistic Regression and Multinomial Naive Bayes algorithms for model training purposes.

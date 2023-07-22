@@ -3,8 +3,8 @@
 ---
 
 ## Education:
-|Data Science & AI | INSAID | May2023 |
-|B.E. in Mechanical | University of Mumbai | May2014 |
+- Data Science & AI | INSAID | May2023 
+- B.E. in Mechanical | University of Mumbai | May2014 
 
 ## Projects
 [Hate Tweet Prediction](/hatetweetread)<br>

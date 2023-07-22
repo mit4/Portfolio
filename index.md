@@ -2,13 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
+[Hate Tweet Prediction](/sample_page)
+Applied various transformations to Twitter tweets to meet specific requirements. Utilized Logistic Regression and Multinomial Naive Bayes algorithms for model training purposes.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Find Answers From PDF](/pdf/sample_presentation.pdf)
+Accomplished the development of an exceptional question answering system by leveraging state-of-the-art transformers and a custom-made, pre-trained pipeline. Demonstrated expertise in cutting-edge technologies, resulting in a highly successful project that showcases my dedication to delivering impactful solutions.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

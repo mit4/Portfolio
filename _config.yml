@@ -6,8 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   # Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/mitesh-lawand">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://github.com/mit4">View My GitHub Profile</a> 
+  <br>
   <a href="https://public.tableau.com/app/profile/mitesh.lawand">View My Tableau Profile</a> 
+  <br>
    
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

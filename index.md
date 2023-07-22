@@ -2,15 +2,18 @@
 
 ---
 
-## Education
+## Education:
+- Data Science & AI | INSAID | May2023
+- B.E. in Mechanical | University of Mumbai | May2014
 
-[Hate Tweet Prediction](/sample_page)<br>
+## Projects
+[Hate Tweet Prediction](/hatetweetread)<br>
 Applied various transformations to Twitter tweets to meet specific requirements. Utilized Logistic Regression and Multinomial Naive Bayes algorithms for model training purposes.
 
 
 ---
-[Find Answers From PDF](/pdf/sample_presentation.pdf)<br>
-Accomplished the development of an exceptional question answering system by leveraging state-of-the-art transformers and a custom-made, pre-trained pipeline. Demonstrated expertise in cutting-edge technologies, resulting in a highly successful project that showcases my dedication to delivering impactful solutions.
+[Find Answers From PDF](/pdfread)<br>
+Accomplished the development of an exceptional question-answering system by leveraging state-of-the-art transformers and a custom-made, pre-trained pipeline. Demonstrated expertise in cutting-edge technologies, resulting in a highly successful project that showcases my dedication to delivering impactful solutions.
 
 
 ---

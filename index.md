@@ -4,14 +4,14 @@
 
 ### Data Science
 
-[Hate Tweet Prediction](/sample_page)
+[Hate Tweet Prediction](/sample_page)<br>
 Applied various transformations to Twitter tweets to meet specific requirements. Utilized Logistic Regression and Multinomial Naive Bayes algorithms for model training purposes.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
-[Find Answers From PDF](/pdf/sample_presentation.pdf)
+[Find Answers From PDF](/pdf/sample_presentation.pdf)<br>
 Accomplished the development of an exceptional question answering system by leveraging state-of-the-art transformers and a custom-made, pre-trained pipeline. Demonstrated expertise in cutting-edge technologies, resulting in a highly successful project that showcases my dedication to delivering impactful solutions.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)

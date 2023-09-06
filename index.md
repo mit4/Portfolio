@@ -13,7 +13,7 @@
 
 ### Data Analysis Projects
 
-* [Supermarket Analysis](https://github.com/mit4/Supermarket-Analysis/blob/8b9602468483525c02553c935fd41462b498a2e2/README.md)
+* [Supermarket Analysis](https://mit4.github.io/Supermarket-Analysis/)
 
     Conducted thorough analysis on supermarket data and created an interactive **Power BI** dashboard, facilitating data-driven decision-making for enhanced performance.
 

@@ -10,11 +10,6 @@
 | B.E. in Mechanical | University of Mumbai | May2014 |
 
 ## Projects
-<<<<<<< HEAD
-=======
-[Hate Tweet Prediction](../../Hate-Tweet-Prediction/readme.md)<br>
-Applied various transformations to Twitter tweets to meet specific requirements. Utilized Logistic Regression and Multinomial Naive Bayes algorithms for model training purposes.
->>>>>>> cd3624a0260080b9c668977ea11695f207c2a5a9
 
 ### Data Analysis Projects
 

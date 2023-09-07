@@ -1,7 +1,7 @@
 title: Mitesh Lawand # your name (or website title) here
 logo: "/images/dp.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
+  Welcome to my portfolio. 
   <a href="https://www.linkedin.com/in/mitesh-lawand">View My LinkedIn Profile</a> 
   <br>
   <a href="https://github.com/mit4">View My GitHub Profile</a> 
@@ -9,8 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://public.tableau.com/app/profile/mitesh.lawand">View My Tableau Profile</a> 
   <br>
 
-show_downloads: "/pdf/resume.pdf"
-   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

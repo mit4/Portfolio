@@ -2,7 +2,7 @@ title: Mitesh Lawand # your name (or website title) here
 logo: "/images/dp.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my portfolio page.
-  
+  <br>
   <a href="https://www.linkedin.com/in/mitesh-lawand">View My LinkedIn Profile</a> 
   <br>
   <a href="https://github.com/mit4">View My GitHub Profile</a> 

@@ -19,7 +19,7 @@ Pursuing a full-time position that presents professional challenges, leveraging 
 
     Conducted thorough analysis on supermarket data and created an interactive **Power BI** dashboard, facilitating data-driven decision-making for enhanced performance.
 
-* [E-commerce Delivery Cost Analysis](https://mit4.github.io/Cointab-data-analyst-assignment/)
+* [E-commerce Delivery Cost Analysis](https://mit4.github.io/E-commerce-Delivery-Cost-Analysis/)
 
     Leveraged real-world data to meticulously compare delivery partner invoices, leading to the identification of overcharging and undercharging instances.Conducted a comprehensive analysis of thousands of daily orders to validate courier charges.Developed and implemented data-driven algorithms to calculate precise delivery costs, minimizing discrepancies.
 
